@@ -1,2 +1,2 @@
 # ProgOO
-[## Ejercicio de Markdown en GitHub](..\ProgOO\ParadigmaOO\README.md) 
+[## Ejercicio de Markdown en GitHub](https://github.com/MiadosC1/ProgOO/tree/main/ParadigmaOO#readme) 
