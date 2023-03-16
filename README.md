@@ -1,4 +1,2 @@
 # ProgOO
-![alt text](https://i.imgur.com/capTsHO.jpg "salu3")
-[LINK](./imagenes/ar.md)
-hola adios
+[## Ejercicio de Markdown en GitHub](..\ProgOO\ParadigmaOO\README.md) 
