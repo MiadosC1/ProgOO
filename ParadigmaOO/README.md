@@ -15,5 +15,5 @@ Es una clase derivada de otra clase, permite reutilizar, extender y modificar en
 ![EJEMPLO](https://i.imgur.com/piblVyl.png)
 ## ¿Qué es UML?
 Es un lenguaje visual utilizado en el desarrollo de software para representar gráficamente los diferentes aspectos de un sistema de software.
-
 El UML se utiliza para describir, diseñar y especificar sistemas de software en términos de su estructura, comportamiento y funcionalidad.
+![EJEMPLO](https://i.imgur.com/m1xvBrK.png)
