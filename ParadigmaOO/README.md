@@ -9,3 +9,4 @@ Puesto que se le da características a un objeto que diferencia a los demás par
 ## Explica el concepto de encapsulamiento
 Agrupación de líneas de código que están muy relacionadas, se le da un nombre y se encapsulan en un método o clase.
 ## Ejemplo:
+![EJEMPLO](https://i.imgur.com/TCGvksi.png)
