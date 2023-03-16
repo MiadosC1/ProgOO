@@ -10,3 +10,10 @@ Puesto que se le da características a un objeto que diferencia a los demás par
 Agrupación de líneas de código que están muy relacionadas, se le da un nombre y se encapsulan en un método o clase.
 ## Ejemplo:
 ![EJEMPLO](https://i.imgur.com/TCGvksi.png)
+## Herencia:
+Es una clase derivada de otra clase, permite reutilizar, extender y modificar en contenido de otras clases.
+![EJEMPLO](https://i.imgur.com/piblVyl.png)
+## ¿Qué es UML?
+Es un lenguaje visual utilizado en el desarrollo de software para representar gráficamente los diferentes aspectos de un sistema de software.
+
+El UML se utiliza para describir, diseñar y especificar sistemas de software en términos de su estructura, comportamiento y funcionalidad.
